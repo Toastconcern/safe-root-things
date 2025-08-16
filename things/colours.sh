@@ -18,16 +18,16 @@ clamp() {
 }
 
 while true; do
-    for i in $(seq 0 255); do
+    for i in $(seq 0 5 255); do
         set_rgb $(clamp $((255 - i))) $(clamp $i) 0       # Red to Green
-        sleep 0.01
+        sleep 0.005
     done
-    for i in $(seq 0 255); do
+    for i in $(seq 0 5 255); do
         set_rgb 0 $(clamp $((255 - i))) $(clamp $i)       # Green to Blue
-        sleep 0.01
+        sleep 0.005
     done
-    for i in $(seq 0 255); do
+    for i in $(seq 0 5 255); do
         set_rgb $(clamp $i) 0 $(clamp $((255 - i)))       # Blue to Red
-        sleep 0.01
+        sleep 0.005
     done
 done
