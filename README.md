@@ -10,4 +10,4 @@ This repository contains a list of safe root things to do.
 | [DockEditor](https://github.com/Lumince/DockEditor) | Dock Editor | confirmed eureka/panther | UID0, Magisk, Dock | install as apk
 | [RebootlessUISwitching](https://github.com/FreeXR/safe-root-things/blob/main/things/rebootlessuiswitching.md) | Switches between Navigator and Dock without rebooting | confirmed eureka/panther | UID0, Magisk | run in adb
 | [VoidTransition](https://github.com/FreeXR/safe-root-things/blob/main/things/voidtransition.md) | Switches between Immersive transition and Void Transition | confirmed eureka/panther | UID0, Magisk | run in adb
-| [InfiniteFloatingPanels](https://github.com/FreeXR/safe-root-things/blob/main/things/infinitefloatingpanels.md) | enables/disables infinite floating panel | confirmed eureka/panther | UID0, Magisk | run in adb
+| [InfiniteFloatingPanels](https://github.com/FreeXR/safe-root-things/blob/main/things/infinitefloatingpanels.md) | enables/disables infinite floating panels | confirmed eureka/panther | UID0, Magisk | run in adb
