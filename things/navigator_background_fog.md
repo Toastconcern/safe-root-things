@@ -18,3 +18,4 @@ Disable Background Fog
 ```
 oculuspreferences --setc navigator_background_disabled false
 ```
+This persists across reboots and is safe to use.
