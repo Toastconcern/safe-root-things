@@ -5,9 +5,9 @@ This repository contains a list of safe root things to do.
 | [colours.sh](https://github.com/FreeXR/safe-root-things/blob/main/things/colours.sh)         | rainbow led | eureka/panther | UID0/SELinux Permissive? | push, chmod +X, exec
 | [dogfood hub](https://github.com/FreeXR/safe-root-things/blob/main/things/dogfood_hub.md)         | dogfood hub | eureka/panther | UID0, Magisk | run in adb
 | [TeleportAnywhere](https://github.com/FreeXR/safe-root-things/blob/main/things/disable_teleport_limit_in_home_environment.md) | teleport anywhere in home envionment | confirmed eureka/panther | UID0, Magisk | run in adb
-| [NavigatorFog](https://github.com/FreeXR/safe-root-things/blob/main/things/navigator_background_fog.md) | enable/disable fog in navigator | confirmed eureka | UID0, Magisk, Navigator | run in adb
+| [NavigatorFog](https://github.com/FreeXR/safe-root-things/blob/main/things/navigator_background_fog.md) | enable/disable fog in navigator | confirmed eureka/panther | UID0, Magisk, Navigator | run in adb
 | [FixedPanelScaling](https://github.com/FreeXR/safe-root-things/blob/main/things/fixed_panels.md) | enables/disables panel size changing | confirmed eureka | UID0, Magisk | run in adb
 | [DockEditor](https://github.com/Lumince/DockEditor) | Dock Editor | confirmed eureka/panther | UID0, Magisk, Dock | install as apk
-| [RebootlessUISwitching](https://github.com/FreeXR/safe-root-things/blob/main/things/rebootlessuiswitching.md) | Switches between Navigator and Dock without rebooting | confirmed eureka | UID0, Magisk | run in adb
+| [RebootlessUISwitching](https://github.com/FreeXR/safe-root-things/blob/main/things/rebootlessuiswitching.md) | Switches between Navigator and Dock without rebooting | confirmed eureka/panther | UID0, Magisk | run in adb
 | [VoidTransition](https://github.com/FreeXR/safe-root-things/blob/main/things/voidtransition.md) | Switches between Immersive transition and Void Transition | confirmed eureka | UID0, Magisk | run in adb
 
