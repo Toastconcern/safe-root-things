@@ -8,4 +8,4 @@ This repository contains a list of safe root things to do.
 | [NavigatorFog](https://github.com/FreeXR/safe-root-things/blob/main/things/navigator_background_fog.md) | enable/disable fog in navigator | confirmed eureka | UID0, Magisk, Navigator | run in adb
 | [FixedPanelScaling](https://github.com/FreeXR/safe-root-things/blob/main/things/fixed_panels.md) | enables/disables panel size changing | confirmed eureka | UID0, Magisk | run in adb
 | [DockEditor](https://github.com/Lumince/DockEditor) | Dock Editor | confirmed eureka/panther | UID0, Magisk, Dock | install as apk
-| [RebootlessUISwitching](https://github.com/FreeXR/safe-root-things/blob/main/things/rebootlessuiswitching.md) | Switches between Navigator and Dock without reboots | confirmed eureka | UID0, Magisk | run in adb
+| [RebootlessUISwitching](https://github.com/FreeXR/safe-root-things/blob/main/things/rebootlessuiswitching.md) | Switches between Navigator and Dock without rebooting | confirmed eureka | UID0, Magisk | run in adb
