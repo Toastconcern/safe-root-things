@@ -7,7 +7,7 @@ adb shell
 su
 ```
 
-Enable Dock UI - dimmed until reboot - idk why
+Enable Dock UI - dimmed if navigator panel is open
 ![com oculus vrshell-20250831-120856](https://github.com/user-attachments/assets/535fd9f1-a420-4ea7-a94b-c64dcdce324f)
 
 ```
