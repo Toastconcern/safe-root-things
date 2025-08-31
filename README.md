@@ -9,3 +9,5 @@ This repository contains a list of safe root things to do.
 | [FixedPanelScaling](https://github.com/FreeXR/safe-root-things/blob/main/things/fixed_panels.md) | enables/disables panel size changing | confirmed eureka | UID0, Magisk | run in adb
 | [DockEditor](https://github.com/Lumince/DockEditor) | Dock Editor | confirmed eureka/panther | UID0, Magisk, Dock | install as apk
 | [RebootlessUISwitching](https://github.com/FreeXR/safe-root-things/blob/main/things/rebootlessuiswitching.md) | Switches between Navigator and Dock without rebooting | confirmed eureka | UID0, Magisk | run in adb
+| [VoidTransition](https://github.com/FreeXR/safe-root-things/blob/main/things/voidtransition.md) | Switches between Immersive transition and Void Transition | confirmed eureka | UID0, Magisk | run in adb
+
