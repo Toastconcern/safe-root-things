@@ -1,1 +1,0 @@
-oculuspreferences --setc navigator_background_disabled true
