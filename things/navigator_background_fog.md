@@ -1,4 +1,3 @@
-oculuspreferences --setc navigator_background_disabled true
 ## Navigator Background Fog
 
 Enter a root shell:
