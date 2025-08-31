@@ -8,14 +8,14 @@ adb shell
 su
 ```
 
-Enable immersive transition:
+Enable Immersive Transition:
 
 ```
 oculuspreferences --setc shell_immersive_transitions_enabled true
 am force-stop com.oculus.vrshell
 ```
 
-Disable immersive transistion
+Enable Void Transistion
 
 ```
 oculuspreferences --setc shell_immersive_transitions_enabled false
