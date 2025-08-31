@@ -7,4 +7,4 @@ This repository contains a list of safe root things to do.
 | [TeleportAnywhere](https://github.com/FreeXR/safe-root-things/blob/main/things/disable_teleport_limit_in_home_environment.md) | teleport anywhere in home envionment | confirmed eureka/panther | UID0, Magisk | run in adb
 | [NavigatorFog](https://github.com/FreeXR/safe-root-things/blob/main/things/navigator_background_fog.md) | enable/disable fog in navigator | confirmed eureka | UID0, Magisk, Navigator | run in adb
 | [FixedPanelScaling](https://github.com/FreeXR/safe-root-things/blob/main/things/fixed_panels.md) | enables/disables panel size changing | confirmed eureka | UID0, Magisk | run in adb
-| [DockEditor](https://github.com/Lumince/DockEditor/releases) | dock editor | confirmed eureka/panther | UID0, Magisk, Dock | apk
+| [DockEditor](https://github.com/Lumince/DockEditor) | Dock Editor | confirmed eureka/panther | UID0, Magisk, Dock | install as apk
