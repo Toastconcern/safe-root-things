@@ -15,7 +15,7 @@ set_led() {
 while true; do
     battery_level=$(cat "$BATTERY_PATH")
 
-    if (( battery_level == 100 )); then
+    if (( battery_level >= 95 )); then
         set_led 0 255 0
     elif (( battery_level >= 90 )); then
         set_led 64 255 0
