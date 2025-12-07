@@ -18,6 +18,7 @@ This repository contains a list of safe root things to do.
 | [**Teleport Anywhere**](https://github.com/FreeXR/safe-root-things/blob/main/things/disable_teleport_limit_in_home_environment.md) | Removes teleport restrictions in the home environment | eureka/panther | Root Shell | `adb shell`
 | [**No Controller Requirement**](https://github.com/FreeXR/safe-root-things/blob/main/things/nocontrollerjoin.md) | Toggles joining VR apps with or without controllers | eureka/panther | Root Shell | `adb shell`
 | [**Void Transition**](https://github.com/FreeXR/safe-root-things/blob/main/things/voidtransition.md) | Toggle between Immersive transition and Void Transition | eureka/panther | Root Shell | `adb shell`
+| [**Replace Report Keybind**](https://github.com/FreeXR/safe-root-things/blob/main/things/reporttolibrary.md) | Changes report menu keybind to the dock library | eureka/panther | Root Shell | `adb shell`
 | Utilites/Info |
 | [**Dogfood Hub**](https://github.com/FreeXR/safe-root-things/blob/main/things/dogfood_hub.md) | Enables Dogfood Hub | eureka/panther | Root Shell | run in adb
 | [**Get Controller Info**](https://github.com/FreeXR/safe-root-things/blob/main/things/controllerinfo.md) | Retrieves detailed controller information | eureka/panther | Shell | `adb shell`
