@@ -4,7 +4,7 @@ This repository contains a list of safe root things to do.
 |--------------|--------------|---------------------|------------|--------|
 | [**Rainbow led**](https://github.com/FreeXR/safe-root-things/blob/main/things/colours.sh) | Cycles the device LED through rainbow colors | eureka/panther | UID0/SELinux Permissive? | Push → `chmod +x` → execute
 | [**Power Indicator LED**](https://github.com/FreeXR/safe-root-things/blob/main/things/powerindicatorled.sh) | LED changes color based on battery charge level | eureka/panther | UID0/SELinux Permissive? | Push → `chmod +x` → execute
-| [**Dogfood Hub**](https://github.com/FreeXR/safe-root-things/blob/main/things/dogfood_hub.md) | Enables Dogfood Hub | eureka/panther | Root Shell | run in adb
+| [**Dogfood Hub**](https://github.com/FreeXR/safe-root-things/blob/main/things/dogfood_hub.md) | Enables Dogfood Hub | eureka/panther | Root Shell | `adb shell`
 | [**Teleport Anywhere**](https://github.com/FreeXR/safe-root-things/blob/main/things/disable_teleport_limit_in_home_environment.md) | Removes teleport restrictions in the home environment | eureka/panther | Root Shell | `adb shell`
 | [**Navigator Fog**](https://github.com/FreeXR/safe-root-things/blob/main/things/navigator_background_fog.md) | Toggles background fog in Navigator | eureka/panther | Root Shell, Navigator | `adb shell`
 | [**Fixed Panel Scaling**](https://github.com/FreeXR/safe-root-things/blob/main/things/fixed_panels.md) | Locks or unlocks panel size adjustment | eureka/panther | Root Shell | `adb shell`
